@@ -57,7 +57,7 @@ const Sidebar = ({
         </div>
 
         <img
-          src="/public/Banner.png"
+          src="/Banner.png"
           alt="download"
           width={224}
           height={160}
